@@ -161,5 +161,8 @@
          display: inline-block;
          align-items: center;
      }
+     .fruitgame{
+         width:400px;
+     }
  
  }
