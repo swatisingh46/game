@@ -161,14 +161,5 @@
          display: inline-block;
          align-items: center;
      }
-     .fruitgame{
-        margin: 45% 100%;
-         width:125%;
-     }
-     .quizgame{
-        margin: 40% 110%;
-     }
-     .mathgame{
-        margin: 30% 110%;
-     }
+ 
  }
